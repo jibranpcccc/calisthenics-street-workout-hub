@@ -4,10 +4,17 @@
     <title>Calisthenics &amp; Bodyweight Athlete Hub</title>
     <link>https://calisthenics-street-workout-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sat, 17 Oct 2026 06:02:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 06:02:09 GMT</lastBuildDate>
     <atom:link href="https://calisthenics-street-workout-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                <item>
+                                                                                                                                    <item>
+      <title>📅 Today's Fresh Pick: r/homelab Infrastructure Guild (Reddit)</title>
+      <link>https://www.reddit.com/r/homelab/</link>
+      <guid isPermaLink="false">https://calisthenics-street-workout-hub.vercel.app/#calisthenics-street-workout-hub-reddit-20261018-1-2026-10-18</guid>
+      <pubDate>Sun, 18 Oct 2026 06:02:09 GMT</pubDate>
+      <description>Newly verified community added to Calisthenics &amp; Bodyweight Athlete Hub: Showcase and support forum for homelab builders running enterprise rack servers, Proxmox hypervisors, ZFS storage, and 10GbE networking.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/selfhosted Sovereign Cloud (Reddit)</title>
       <link>https://www.reddit.com/r/selfhosted/</link>
       <guid isPermaLink="false">https://calisthenics-street-workout-hub.vercel.app/#calisthenics-street-workout-hub-reddit-20261017-1-2026-10-17</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://calisthenics-street-workout-hub.vercel.app/#calisthenics-street-workout-hub-discord-20260918-1-2026-09-18</guid>
       <pubDate>Fri, 18 Sep 2026 06:16:03 GMT</pubDate>
       <description>Newly verified community added to Calisthenics &amp; Bodyweight Athlete Hub: Official community server for OpenAI developers, GPT API architectures, assistants, and generative model updates.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/bodyweightfitness Gymnastic Strength (Reddit)</title>
-      <link>https://www.reddit.com/r/bodyweightfitness/</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/calisthenics-street-workout-hub/#calisthenics-street-workout-hub-reddit-20260915-1-2026-09-15</guid>
-      <pubDate>Tue, 15 Sep 2026 11:17:08 GMT</pubDate>
-      <description>Newly verified community added to Calisthenics Street Workout Hub: The largest community of bodyweight athletes, covering the Recommended Routine, handstand balance, muscle-up progressions, and planche training.</description>
     </item>
   </channel>
 </rss>
